@@ -4,7 +4,7 @@ published_at: 2024-03-05:00:00.000Z
 snippet: Scavenger Hunt
 ---
 
-Hello, world!
+
 
 [ A golden globe atop a tower of eights] (/w01s1/01.jpg)
 Consulting the map, we identified an open space behind Building 13, leading us to believe that something significant awaited us there.
